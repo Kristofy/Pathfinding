@@ -80,8 +80,10 @@ namespace Pathfinding
                        		trace.Open=State.PATH;
                        		return;
                        	}
-                       	n.Open = State.OPENED;
-                       	queue.Add(n);
+                       	if(n.Open==State.UNDEFINED){
+	                       	n.Open = State.OPENED;
+	                       	queue.Add(n);
+                       	}
                        	
                    });
 				}else{

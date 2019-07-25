@@ -1,0 +1,13 @@
+C:\Users\oszto\Documents\SharpDevelop Projects\Pathfinding\Pathfinding\bin\Release\Pathfinding.exe
+C:\Users\oszto\Documents\SharpDevelop Projects\Pathfinding\Pathfinding\obj\Release\Pathfinding.csprojResolveAssemblyReference.cache
+C:\Users\oszto\Documents\SharpDevelop Projects\Pathfinding\Pathfinding\obj\Release\Pathfinding.AStarPathfinding.resources
+C:\Users\oszto\Documents\SharpDevelop Projects\Pathfinding\Pathfinding\obj\Release\Pathfinding.BFS.resources
+C:\Users\oszto\Documents\SharpDevelop Projects\Pathfinding\Pathfinding\obj\Release\Pathfinding.ChooseForm.resources
+C:\Users\oszto\Documents\SharpDevelop Projects\Pathfinding\Pathfinding\obj\Release\Pathfinding.DFS.resources
+C:\Users\oszto\Documents\SharpDevelop Projects\Pathfinding\Pathfinding\obj\Release\Pathfinding.Dijkstra.resources
+C:\Users\oszto\Documents\SharpDevelop Projects\Pathfinding\Pathfinding\obj\Release\Pathfinding.EditForm.resources
+C:\Users\oszto\Documents\SharpDevelop Projects\Pathfinding\Pathfinding\obj\Release\Pathfinding.MainForm.resources
+C:\Users\oszto\Documents\SharpDevelop Projects\Pathfinding\Pathfinding\obj\Release\Pathfinding.SettingsForm.resources
+C:\Users\oszto\Documents\SharpDevelop Projects\Pathfinding\Pathfinding\obj\Release\Pathfinding.SolveForm.resources
+C:\Users\oszto\Documents\SharpDevelop Projects\Pathfinding\Pathfinding\obj\Release\Pathfinding.csproj.GenerateResource.Cache
+C:\Users\oszto\Documents\SharpDevelop Projects\Pathfinding\Pathfinding\obj\Release\Pathfinding.exe
